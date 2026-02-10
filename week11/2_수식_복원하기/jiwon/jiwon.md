@@ -207,10 +207,10 @@ def solution(expressions):
 ### 실행 결과 (개선된 풀이)
 
 <내 풀이>
-![내 풀이](images/test_1.png)
+![내 풀이](./images/test_1.png)
 
 <개선된 풀이>
-![개선된 풀이](images/test_2.png)
+![개선된 풀이](./images/test_2.png)
 
 - 통과 여부: Y
 - 실행 시간/메모리: 테스트 18 〉 통과 (0.32ms, 9.45MB)
