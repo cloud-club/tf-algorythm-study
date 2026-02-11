@@ -34,17 +34,22 @@
 
 | Week    | Learning Content Title    | Details of Learning Content          |
 | ------- | ------------------------- | ------------------------------------ |
-| Week 01 | OT            |                        |
-| Week 02 | Greedy        |                        |
-| Week 03 | 구현           |                        |
-| Week 04 | DFS/BFS       |                        |
-| Week 05 | 정렬           |                        |
-| Week 06 | 이진 탐색       |                        |
-| Week 07 | DP            |                        |
-| Week 08 | 최단 경로       |                        |
-| Week 09 | 그래프          |                        |
-| Week 10 | PCCP - 1      |                        |
-| Week 11 | PCCP - 2      | [PCCP - 2](./week11/)  |
+| Week 01 | OT            |                           |
+| Week 02 | Greedy        |                           |
+| Week 03 | 구현           |                           |
+| Week 04 | DFS/BFS       |                           |
+| Week 05 | 정렬           |                           |
+| Week 06 | 이진 탐색       |                           |
+| Week 07 | DP            |                           |
+| Week 08 | 최단 경로       |                           |
+| Week 09 | 그래프          |                           |
+| Week 10 | PCCP - 1      |                           |
+| Week 11 | PCCP - 2      | [PCCP - 2](./week11/)     |
+| Week 12 | PCCP - 2      | [PCCP - 3](./week12/)     |
+| Week 13 | 삼성 기출 - 1   | [삼성 기출 - 1](./week13/)   |
+| Week 14 | 삼성 기출 - 2   | [삼성 기출 - 2](./week14/)   |
+| Week 15 | 삼성 기출 - 3   | [삼성 기출 - 3](./week15/)   |
+| Week 15 | 삼성 기출 - 4   | [삼성 기출 - 4](./week16/)   |
 
 ## 4. GitHub Collaboration Guidelines
 
